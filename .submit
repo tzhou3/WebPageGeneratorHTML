@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC132H
+#  Project ActualProject#1: WebPageGenerator
+
+courseName=CMSC132H
+semester=201608
+projectNumber=ActualProject#1
+courseKey=ff215cdea35351e1
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2016
+submitURL=https://submit.cs.umd.edu:443/fall2016/eclipse/SubmitProjectViaEclipse

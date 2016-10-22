@@ -1,0 +1,16 @@
+ID: 1
+EnableID? true
+StartTag: <h1 id="h11">
+EndTag: </h1>
+StringID: h11
+HTML:    <h1 id="h11">text</h1>
+HTML with attributes:    <h1 id="h11" align="left">text</h1>
+
+
+
+
+
+
+
+
+

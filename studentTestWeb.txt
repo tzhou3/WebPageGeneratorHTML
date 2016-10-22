@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+   <head lang="en">
+      <meta charset="utf-8"/>
+      <title>TestTitle</title>
+    </head>
+   <body>
+   <table id="table1">
+      <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td>test1</td><td>test2</td><td>test3</td><td>test4</td><td>test5</td><td>test6</td><td>test7</td><td>test8</td><td>test9</td><td>test10</td></tr>
+   </table>
+   <ol id="ol2">
+      <li>
+         <img id="img3" src="testudo.jpg" width="80" height="111" alt="Testudo Image">
+      </li>
+      <li>
+         <a id="a4" href="http://www.cs.umd.edu">UMD</a>
+      </li>
+</ol>
+   <p id="p5">
+      <h1 id="h16">test</h1>
+      <img id="img7" src="testudo.jpg" width="145" height="150" alt="Testudo Image" align="middle">
+      <a id="a8" href="http://www.google.com">Google</a>
+   </p>
+   </body>
+</html>
+
+Stats: 
+List Count: 1
+Paragraph Count: 1
+Table Count: 1
+TableElement Utilization: 50.0
+
+Find Element5: 
+   <p id="p5">
+      <h1 id="h16">test</h1>
+      <img id="img7" src="testudo.jpg" width="145" height="150" alt="Testudo Image" align="middle">
+      <a id="a8" href="http://www.google.com">Google</a>
+   </p>
+
+
+
+
+
+
+
+
